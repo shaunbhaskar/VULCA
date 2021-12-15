@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+	background-image: url("BCK.jpg");
+	font-family: 'Syncopate', sans-serif;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+	font-family: 'Syncopate', sans-serif;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
